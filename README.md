@@ -66,9 +66,8 @@ Includes:
 - MCAS Math & English Scores  
 - College Attendance Outcomes  
 
-A full data dictionary used in this project is included here:  
+A full data dictionary used in this project is Attached:  
 📄 *Data-Dictionary-Massachusetts-schools.pdf*  
-:contentReference[oaicite:0]{index=0}
 
 ---
 
